@@ -28,7 +28,7 @@ const charts = [
   },
   {
     "level": 1,
-    "title": "Triplets",
+    "title": "Triplet",
     "difName": "Challenge",
     "artist": "Reizoko Cj",
     "maker": "長月",

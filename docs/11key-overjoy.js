@@ -198,7 +198,7 @@ const charts = [
     "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS357.html"
   },
   {
-    "level": 6,
+    "level": 4,
     "title": "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 ～Falling in \"B\" mix～",
     "difName": "E２０",
     "artist": "ルナ・ヴィオーラ",

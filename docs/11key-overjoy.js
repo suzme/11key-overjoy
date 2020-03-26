@@ -223,5 +223,14 @@ const charts = [
     "maker": "TAKADRA",
     "scoreId": 3,
     "url": "https://cw7.sakura.ne.jp/danoni/2008/0111B_FreedomDive.html"
+  },
+  {
+    "level": 1,
+    "title": "NS18",
+    "difName": "Another（ソフラン入り）",
+    "artist": "3034",
+    "maker": "apoi",
+    "scoreId": 6,
+    "url": "http://apoi108.sakura.ne.jp/danoni/nfes19_another/no87_NS18.html"
   }
 ]

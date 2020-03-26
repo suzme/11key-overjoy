@@ -214,5 +214,14 @@ const charts = [
     "maker": "しょーでん",
     "scoreId": 9,
     "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS357.html"
+  },
+  {
+    "level": 6,
+    "title": "FREEDOM DiVE↓",
+    "difName": "ELEVEN DIMENSIONS",
+    "artist": "xi",
+    "maker": "TAKADRA",
+    "scoreId": 3,
+    "url": "https://cw7.sakura.ne.jp/danoni/2008/0111B_FreedomDive.html"
   }
 ]

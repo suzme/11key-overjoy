@@ -232,5 +232,14 @@ const charts = [
     "maker": "apoi",
     "scoreId": 6,
     "url": "http://apoi108.sakura.ne.jp/danoni/nfes19_another/no87_NS18.html"
+  },
+  {
+    "level": 4,
+    "title": "Love & Justice",
+    "difName": "Master",
+    "artist": "フロン / ラズベリル",
+    "maker": "apoi",
+    "scoreId": 0,
+    "url": "http://apoi108.sakura.ne.jp/danoni/apoi/no89_Love_Justice.html"
   }
 ]

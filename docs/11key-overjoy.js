@@ -241,5 +241,14 @@ const charts = [
     "maker": "apoi",
     "scoreId": 0,
     "url": "http://apoi108.sakura.ne.jp/danoni/apoi/no89_Love_Justice.html"
+  },
+  {
+    "level": 1,
+    "title": "XFD1048576",
+    "difName": "#DIV/0!",
+    "artist": "chip",
+    "maker": "chip",
+    "scoreId": 3,
+    "url": "http://mfv2.sakura.ne.jp/do/_chipstar64/?id=XFD"
   }
 ]

@@ -8,19 +8,15 @@
   <body>
     <h1>11key Overjoy(仮)</h1>
     <p>
-      <input type="button" id="share" value="Share">
-      <input type="button" id="export" value="Export">
-      <input type="button" id="import" value="Import">
-      <input type="button" id="reset" value="Reset">
+      このページのURLを共有すると現在のクリア状況を公開できます。
     </p>
     <div id="app" v-cloak>
       <table>
-        <tr><th>🟎</th><th> </th><th>曲名 [譜面名]</th><th>譜面作者</th><th>アーティスト</th></tr>
+        <tr><th>🟎</th><th>曲名 [譜面名]</th><th>譜面作者</th><th>アーティスト</th></tr>
         <tr v-for="chart of charts"
           v-bind:style="{ 'background-color': chart.lampColor }"
           v-bind:class="{ 'levelBorder': chart.levelBorder }">
           <td>🟎{{ chart.level }}</td>
-          <td><input type="button" value=" " @click="changeLamp(chart.id)"></td>
           <td><a v-bind:href="chart.url">{{ chart.title }} [{{ chart.difName }}]</a></td>
           <td>{{ chart.maker }}</td>
           <td>{{ chart.artist }}</td>
@@ -30,6 +26,6 @@
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
     <script src="./compress.js"></script>
     <script src="./11key-overjoy.js"></script>
-    <script src="./index.js"></script>
+    <script src="./share.js"></script>
   </body>
 </html>

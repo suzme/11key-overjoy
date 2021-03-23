@@ -90,7 +90,7 @@ const charts = [
     "url": "http://apoi108.sakura.ne.jp/danoni/apoi/no28_dragonlady.html"
   },
   {
-    "level": 2,
+    "level": 1,
     "title": "H324 (fixed)",
     "difName": "E２２",
     "artist": "YOSSHI",
@@ -99,7 +99,7 @@ const charts = [
     "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS349.html"
   },
   {
-    "level": 2,
+    "level": 1,
     "title": "HELP (fixed)",
     "difName": "E２１",
     "artist": "YOSSHI",
@@ -146,7 +146,7 @@ const charts = [
   {
     "level": 3,
     "title": "Vast Universe",
-    "difName": "E２１",
+    "difName": "E２２",
     "artist": "Vospi vs KOTOKO",
     "maker": "しょーでん",
     "scoreId": 2,
@@ -243,7 +243,7 @@ const charts = [
     "url": "http://apoi108.sakura.ne.jp/danoni/apoi/no89_Love_Justice.html"
   },
   {
-    "level": 1,
+    "level": 2,
     "title": "XFD1048576",
     "difName": "#DIV/0!",
     "artist": "chip",

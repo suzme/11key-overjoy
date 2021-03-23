@@ -7,7 +7,22 @@ const storageKey = 'lamps'
 const lampColors = ['#dddddd', '#ccffcc', '#ffffcc', '#ffcccc', '#ffffff', '#ccccff']
 
 // クリアランプ読み込み
-const storedLamps = JSON.parse(localStorage.getItem(storageKey) || '[]')
+let storedLamps = []
+try {
+  storedLamps = decompress(location.search.substring(1))
+} catch (error) {
+  document.addEventListener('DOMContentLoaded', () => {
+    let message = ''
+    if (error.message === 'checksum error') {
+      message = 'データが壊れています。'
+    } else if (error.message === 'invalid data') {
+      message = '不正なデータです。'
+    } else {
+      message = error
+    }
+    document.getElementById('message').innerText = message
+  })
+}
 
 charts.forEach((chart, i) => {
   // クリアランプの初期化

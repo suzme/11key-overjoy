@@ -250,5 +250,113 @@ const charts = [
     "maker": "chip",
     "scoreId": 3,
     "url": "http://mfv2.sakura.ne.jp/do/_chipstar64/?id=XFD"
-  }
+  },
+  {
+    "level": "3",
+    "title": "deg w∧v chu doc",
+    "difName": "Master",
+    "artist": "utubo",
+    "maker": "apoi",
+    "scoreId": "4",
+    "url": "http://apoi108.sakura.ne.jp/danoni/apoi/no100_deg_wav.html"
+  },
+  {
+    "level": "4",
+    "title": "FINAL RENDA AUDITION",
+    "difName": "だと思いこんでいる8key",
+    "artist": "ルゼ",
+    "maker": "trois",
+    "scoreId": "4",
+    "url": "http://shomotsu.g2.xrea.com/danoni/renda/danoni/fra.html"
+  },
+  {
+    "level": "4",
+    "title": "Open Heart [ 骨肉の争いMix ]",
+    "difName": "E２３",
+    "artist": "友蔵保管庫",
+    "maker": "しょーでん",
+    "scoreId": "4",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS094.html"
+  },
+  {
+    "level": "4",
+    "title": "Passiflora caerulea",
+    "difName": "E２３",
+    "artist": "-45",
+    "maker": "しょーでん",
+    "scoreId": "4",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS013.html"
+  },
+  {
+    "level": "4",
+    "title": "おにぎりハードコア",
+    "difName": "E２４",
+    "artist": "菅",
+    "maker": "しょーでん",
+    "scoreId": "9",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS141.html"
+  },
+  {
+    "level": "5",
+    "title": "Ena",
+    "difName": "E２５",
+    "artist": "-45",
+    "maker": "しょーでん",
+    "scoreId": "4",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS367.html"
+  },
+  {
+    "level": "5",
+    "title": "HARASSIN' BOSS",
+    "difName": "ANOTHER",
+    "artist": "Y.W",
+    "maker": "decresc.",
+    "scoreId": "8",
+    "url": "http://avectristesse.ukime.org/danoni/danoni/nkeys20A_F2.html"
+  },
+  {
+    "level": "5",
+    "title": "Superstar Friends",
+    "difName": "E２４",
+    "artist": "DJKurara",
+    "maker": "しょーでん",
+    "scoreId": "4",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS368.html"
+  },
+  {
+    "level": "5",
+    "title": "裏切りの少女 ～ Judas Kiss",
+    "difName": "E２５",
+    "artist": "どぶウサギ",
+    "maker": "しょーでん",
+    "scoreId": "3",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS255.html"
+  },
+  {
+    "level": "6",
+    "title": "Superstar Friends",
+    "difName": "E２７",
+    "artist": "DJKurara",
+    "maker": "しょーでん",
+    "scoreId": "6",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS368.html"
+  },
+  {
+    "level": "7",
+    "title": "Superstar Friends",
+    "difName": "E２８",
+    "artist": "DJKurara",
+    "maker": "しょーでん",
+    "scoreId": "7",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS368.html"
+  },
+  {
+    "level": "7",
+    "title": "裏切りの少女 ～ Judas Kiss",
+    "difName": "E２８",
+    "artist": "どぶウサギ",
+    "maker": "しょーでん",
+    "scoreId": "4",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS255.html"
+  }  
 ]

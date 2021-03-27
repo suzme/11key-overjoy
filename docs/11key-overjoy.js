@@ -358,5 +358,14 @@ const charts = [
     "maker": "しょーでん",
     "scoreId": "4",
     "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS255.html"
-  }  
+  },
+  {
+    "level": "2",
+    "title": "ほしぞら遊覧飛行",
+    "difName": "Supernova Explosion",
+    "artist": "山蝙蝠ホールディングス",
+    "maker": "apoi",
+    "scoreId": "0",
+    "url": "http://apoi108.sakura.ne.jp/danoni/apoi/no107_hoshizora.html"
+  }
 ]

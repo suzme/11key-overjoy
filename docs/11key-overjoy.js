@@ -117,7 +117,7 @@ const charts = [
     "url": "http://apoi108.sakura.ne.jp/danoni/apoi/no75_volcanic.html"
   },
   {
-    "level": 3,
+    "level": 2,
     "title": "★LittlE HearTs★",
     "difName": "Lunatic",
     "artist": "ねこみみ魔法使い",

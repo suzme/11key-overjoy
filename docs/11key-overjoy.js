@@ -367,5 +367,23 @@ const charts = [
     "maker": "apoi",
     "scoreId": "0",
     "url": "http://apoi108.sakura.ne.jp/danoni/apoi/no107_hoshizora.html"
+  },
+  {
+    "level": 1,
+    "title": "DENGEKI Tube",
+    "difName": "Another",
+    "artist": "BACO",
+    "maker": "apoi",
+    "scoreId": 3,
+    "url": "http://apoi108.sakura.ne.jp/danoni/nfes21_pre/dengeki.html"
+  },
+  {
+    "level": 2,
+    "title": "春告鳥への餞",
+    "difName": "FORBIDDEN",
+    "artist": "EINE",
+    "maker": "decresc.",
+    "scoreId": 19,
+    "url": "http://avectristesse.ukime.org/danoni/danoni/nkeys21P_H.html"
   }
 ]

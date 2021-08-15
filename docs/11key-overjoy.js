@@ -385,5 +385,32 @@ const charts = [
     "maker": "decresc.",
     "scoreId": 19,
     "url": "http://avectristesse.ukime.org/danoni/danoni/nkeys21P_H.html"
+  },
+  {
+    "level": "3",
+    "title": "Angelic layer",
+    "difName": "E２１",
+    "artist": "SHIKI",
+    "maker": "しょーでん",
+    "scoreId": "7",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS343.html"
+  },
+  {
+    "level": "4",
+    "title": "Angelic layer",
+    "difName": "E２３",
+    "artist": "SHIKI",
+    "maker": "しょーでん",
+    "scoreId": "8",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS343.html"
+  },
+  {
+    "level": "4",
+    "title": "Z◇D1AC S1GN",
+    "difName": "◇",
+    "artist": "chip",
+    "maker": "chip",
+    "scoreId": "1",
+    "url": "http://chipstar64.sakura.ne.jp/danoni/danoni_ZS.html"
   }
 ]

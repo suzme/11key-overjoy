@@ -389,7 +389,7 @@ const charts = [
   {
     "level": "3",
     "title": "Angelic layer",
-    "difName": "E２１",
+    "difName": "E２３",
     "artist": "SHIKI",
     "maker": "しょーでん",
     "scoreId": "7",
@@ -398,7 +398,7 @@ const charts = [
   {
     "level": "4",
     "title": "Angelic layer",
-    "difName": "E２３",
+    "difName": "E２４",
     "artist": "SHIKI",
     "maker": "しょーでん",
     "scoreId": "8",

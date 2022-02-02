@@ -312,7 +312,7 @@ const charts = [
     "artist": "Y.W",
     "maker": "decresc.",
     "scoreId": "8",
-    "url": "http://avectristesse.ukime.org/danoni/danoni/nkeys20A_F2.html"
+    "url": "http://avectristesse.sakura.ne.jp/danoni/danoni/nkeys20A_F2.html"
   },
   {
     "level": "5",
@@ -384,7 +384,7 @@ const charts = [
     "artist": "EINE",
     "maker": "decresc.",
     "scoreId": 19,
-    "url": "http://avectristesse.ukime.org/danoni/danoni/nkeys21P_H.html"
+    "url": "http://avectristesse.sakura.ne.jp/danoni/danoni/nkeys21P_H.html"
   },
   {
     "level": "3",

@@ -412,5 +412,50 @@ const charts = [
     "maker": "chip",
     "scoreId": "1",
     "url": "http://chipstar64.sakura.ne.jp/danoni/danoni_ZS.html"
-  }
+  },
+  {
+    "level": "1",
+    "title": "felys final remix",
+    "difName": "E２４",
+    "artist": "onoken",
+    "maker": "しょーでん",
+    "scoreId": "2",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS370.html"
+  },
+  {
+    "level": "5",
+    "title": "felys final remix",
+    "difName": "E２６",
+    "artist": "onoken",
+    "maker": "しょーでん",
+    "scoreId": "3",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS370.html"
+  },
+  {
+    "level": "7",
+    "title": "alpina",
+    "difName": "E２７",
+    "artist": "MiYAjY",
+    "maker": "しょーでん",
+    "scoreId": "2",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS380.html"
+  },
+  {
+    "level": "3",
+    "title": "RAVE NIGHTINGALE",
+    "difName": "Master",
+    "artist": "Hyparpax",
+    "maker": "apoi",
+    "scoreId": "3",
+    "url": "https://apoi108.sakura.ne.jp/danoni/nfes21R/rave_nightingale.html"
+  },
+  {
+    "level": "4",
+    "title": "Dance With Powder",
+    "difName": "Master",
+    "artist": "glitch",
+    "maker": "apoi",
+    "scoreId": "0",
+    "url": "https://apoi108.sakura.ne.jp/danoni/apoi/dance_with_powder.html"
+  },
 ]

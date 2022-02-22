@@ -450,7 +450,7 @@ const charts = [
     "url": "https://apoi108.sakura.ne.jp/danoni/nfes21R/rave_nightingale.html"
   },
   {
-    "level": "4",
+    "level": "3",
     "title": "Dance With Powder",
     "difName": "Master",
     "artist": "glitch",

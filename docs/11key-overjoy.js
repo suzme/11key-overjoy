@@ -458,4 +458,13 @@ const charts = [
     "scoreId": "0",
     "url": "https://apoi108.sakura.ne.jp/danoni/apoi/dance_with_powder.html"
   },
+  {
+    "level": "4",
+    "title": "Taboo Assembly",
+    "difName": "←↓↑→",
+    "artist": "かたぎり",
+    "maker": "Tarwil",
+    "scoreId": "1",
+    "url": "https://tarwil1503.github.io/11TA.html"
+  },
 ]

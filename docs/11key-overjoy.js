@@ -96,7 +96,7 @@ const charts = [
     "artist": "YOSSHI",
     "maker": "しょーでん",
     "scoreId": 2,
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS349.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS349.html"
   },
   {
     "level": 1,
@@ -105,7 +105,7 @@ const charts = [
     "artist": "YOSSHI",
     "maker": "しょーでん",
     "scoreId": 5,
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS348.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS348.html"
   },
   {
     "level": 2,
@@ -150,7 +150,7 @@ const charts = [
     "artist": "Vospi vs KOTOKO",
     "maker": "しょーでん",
     "scoreId": 2,
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS357.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS357.html"
   },
   {
     "level": 3,
@@ -177,7 +177,7 @@ const charts = [
     "artist": "ASK",
     "maker": "しょーでん",
     "scoreId": 6,
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS029.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS029.html"
   },
   {
     "level": 5,
@@ -186,7 +186,7 @@ const charts = [
     "artist": "-45",
     "maker": "しょーでん",
     "scoreId": 9,
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS347.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS347.html"
   },
   {
     "level": 5,
@@ -195,7 +195,7 @@ const charts = [
     "artist": "Vospi vs KOTOKO",
     "maker": "しょーでん",
     "scoreId": 5,
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS357.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS357.html"
   },
   {
     "level": 4,
@@ -213,7 +213,7 @@ const charts = [
     "artist": "Vospi vs KOTOKO",
     "maker": "しょーでん",
     "scoreId": 9,
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS357.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS357.html"
   },
   {
     "level": 6,
@@ -276,7 +276,7 @@ const charts = [
     "artist": "友蔵保管庫",
     "maker": "しょーでん",
     "scoreId": "4",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS094.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS094.html"
   },
   {
     "level": "4",
@@ -285,7 +285,7 @@ const charts = [
     "artist": "-45",
     "maker": "しょーでん",
     "scoreId": "4",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS013.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS013.html"
   },
   {
     "level": "4",
@@ -303,7 +303,7 @@ const charts = [
     "artist": "-45",
     "maker": "しょーでん",
     "scoreId": "4",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS367.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS367.html"
   },
   {
     "level": "5",
@@ -321,7 +321,7 @@ const charts = [
     "artist": "DJKurara",
     "maker": "しょーでん",
     "scoreId": "4",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS368.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS368.html"
   },
   {
     "level": "5",
@@ -330,7 +330,7 @@ const charts = [
     "artist": "どぶウサギ",
     "maker": "しょーでん",
     "scoreId": "3",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS255.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS255.html"
   },
   {
     "level": "6",
@@ -339,7 +339,7 @@ const charts = [
     "artist": "DJKurara",
     "maker": "しょーでん",
     "scoreId": "6",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS368.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS368.html"
   },
   {
     "level": "7",
@@ -348,7 +348,7 @@ const charts = [
     "artist": "DJKurara",
     "maker": "しょーでん",
     "scoreId": "7",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS368.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS368.html"
   },
   {
     "level": "7",
@@ -357,7 +357,7 @@ const charts = [
     "artist": "どぶウサギ",
     "maker": "しょーでん",
     "scoreId": "4",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoni/DS255.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS255.html"
   },
   {
     "level": "2",
@@ -393,7 +393,7 @@ const charts = [
     "artist": "SHIKI",
     "maker": "しょーでん",
     "scoreId": "7",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS343.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS343.html"
   },
   {
     "level": "4",
@@ -402,7 +402,7 @@ const charts = [
     "artist": "SHIKI",
     "maker": "しょーでん",
     "scoreId": "8",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS343.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS343.html"
   },
   {
     "level": "4",
@@ -420,7 +420,7 @@ const charts = [
     "artist": "onoken",
     "maker": "しょーでん",
     "scoreId": "2",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS370.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS370.html"
   },
   {
     "level": "5",
@@ -429,7 +429,7 @@ const charts = [
     "artist": "onoken",
     "maker": "しょーでん",
     "scoreId": "3",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS370.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS370.html"
   },
   {
     "level": "7",
@@ -438,7 +438,7 @@ const charts = [
     "artist": "MiYAjY",
     "maker": "しょーでん",
     "scoreId": "2",
-    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2251/danoni/DS380.html"
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS380.html"
   },
   {
     "level": "3",

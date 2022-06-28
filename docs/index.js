@@ -4,7 +4,7 @@
 const storageKey = 'lamps'
 
 // クリアランプの色
-const lampColors = ['#dddddd', '#ccffcc', '#ffffcc', '#ffcccc', '#ffffff', '#ccccff']
+const lampColors = ['#dddddd', '#ccffcc', '#ffffcc', '#ffcccc', '#ffffff', '#ccccff', 'linear-gradient(to right,#ffcccc,#ffffcc,#ccffcc,#ccffff,#ccccff,#ffccff)']
 
 // クリアランプ読み込み
 const storedLamps = JSON.parse(localStorage.getItem(storageKey) || '[]')
@@ -42,13 +42,19 @@ charts.forEach(chart => {
 const app = new Vue({
   el: '#app',
   data: {
-    charts: charts
+    charts: charts,
+    lampColors: lampColors
   },
   methods: {
     // クリアランプ変更
-    changeLamp: id => {
+    changeLamp: (id, reverse) => {
       const chart = charts.find(chart => chart.id === id)
-      chart.lamp = (chart.lamp + 1) % lampColors.length
+      chart.lamp = chart.lamp + (reverse ? -1 : 1)
+      if (chart.lamp >= lampColors.length) {
+        chart.lamp = 0
+      } else if (chart.lamp < 0) {
+        chart.lamp = lampColors.length - 1
+      }
       chart.lampColor = lampColors[chart.lamp]
 
       const lamps = charts.slice().sort(orderBy('id')).map(chart => chart.lamp)

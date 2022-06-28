@@ -51,7 +51,28 @@ td input {
   width: 1.7rem;
 }
 
-
 p {
   text-align: center;
+}
+
+/* ランプ数表示 */
+.summary {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 640px;
+  margin: auto;
+  margin-bottom: 0.5rem;
+  font-size: 90%;
+}
+
+.summary > div {
+  text-align: center;
+  width: 2rem;
+  padding: 0.2rem;
+  flex: auto;
+}
+
+.total {
+  width: 5rem !important;
 }

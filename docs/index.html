@@ -30,7 +30,10 @@
           v-bind:class="{ 'levelBorder': chart.levelBorder }">
           <td>🟎{{ chart.level }}</td>
           <td><input type="button" value=" " @click="changeLamp(chart.id)" @click.right.prevent="changeLamp(chart.id, true)"></td>
-          <td><a v-bind:href="chart.url">{{ chart.title }} [{{ chart.difName }}]</a></td>
+          <td>
+            <a v-bind:href="chart.url">{{ chart.title }} [{{ chart.difName }}]</a>
+            <span v-if="chart.new" class="new">New!</span>
+          </td>
           <td>{{ chart.maker }}</td>
           <td>{{ chart.artist }}</td>
         </tr>

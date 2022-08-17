@@ -378,7 +378,7 @@ const charts = [
     "url": "http://apoi108.sakura.ne.jp/danoni/nfes21_pre/dengeki.html"
   },
   {
-    "level": 2,
+    "level": 1,
     "title": "春告鳥への餞",
     "difName": "FORBIDDEN",
     "artist": "EINE",
@@ -467,4 +467,58 @@ const charts = [
     "scoreId": "1",
     "url": "https://tarwil1503.github.io/11TA.html"
   },
+  {
+    "level": "2",
+    "title": "FINAL RENDA AUDITION",
+    "difName": "E２１",
+    "artist": "ルゼ",
+    "maker": "しょーでん",
+    "scoreId": "16",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS382.html",
+    "date": "2022/8/12"
+  },
+  {
+    "level": "4",
+    "title": "FINAL RENDA AUDITION",
+    "difName": "E２２",
+    "artist": "ルゼ",
+    "maker": "しょーでん",
+    "scoreId": "17",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS382.html",
+    "date": "2022/8/12"
+  },
+  {
+    "level": "5",
+    "title": "FINAL RENDA AUDITION",
+    "difName": "E２５",
+    "artist": "ルゼ",
+    "maker": "しょーでん",
+    "scoreId": "18",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS382.html",
+    "date": "2022/8/12"
+  },
+  {
+    "level": "4",
+    "title": "ULTRA RENDA 1",
+    "difName": "E２３",
+    "artist": "ルゼ",
+    "maker": "しょーでん",
+    "scoreId": "5",
+    "url": "http://www.ricetask68934.shop/ricetask68934.shop/danoniplus2720/danoni/DS383.html",
+    "date": "2022/8/13"
+  },
+  {
+    'level': '1',
+    'title': '灼爍たるガーネット',
+    'difName': 'LEGGENDARIA',
+    'artist': 'Halv',
+    'maker': 'decresc.',
+    'bpm': 188,
+    'toolDif': 39.05,
+    'noteNum': 1014,
+    'duration': '2:20',
+    'scoreId': 16,
+    'url': 'https://avectristesse.sakura.ne.jp/danoni/danoni/nkeys22M_GN.html',
+    "date": "2022/8/14"
+  }
 ]

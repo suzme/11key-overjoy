@@ -15,7 +15,7 @@ const charts = [
     "artist": "島白",
     "maker": "mmj",
     "scoreId": 2,
-    "url": "http://apoi108.sakura.ne.jp/danoni/mmj/JUMP.html"
+    "url": "https://mfv2.sakura.ne.jp/do/_mmj/?id=JUMP"
   },
   {
     "level": 1,
@@ -42,7 +42,7 @@ const charts = [
     "artist": "LeaF",
     "maker": "mmj",
     "scoreId": 2,
-    "url": "http://apoi108.sakura.ne.jp/danoni/mmj/movement.html"
+    "url": "https://mfv2.sakura.ne.jp/do/_mmj/?id=movement"
   },
   {
     "level": 1,
@@ -132,7 +132,7 @@ const charts = [
     "artist": "島白",
     "maker": "mmj",
     "scoreId": 3,
-    "url": "http://apoi108.sakura.ne.jp/danoni/mmj/JUMP.html"
+    "url": "https://mfv2.sakura.ne.jp/do/_mmj/?id=JUMP"
   },
   {
     "level": 3,
@@ -159,7 +159,7 @@ const charts = [
     "artist": "Halozy feat.ななひら",
     "maker": "mmj",
     "scoreId": 1,
-    "url": "http://apoi108.sakura.ne.jp/danoni/mmj/suwako.html"
+    "url": "https://mfv2.sakura.ne.jp/do/_mmj/?id=suwako"
   },
   {
     "level": 4,
@@ -168,7 +168,7 @@ const charts = [
     "artist": "chip",
     "maker": "Pandora ◇",
     "scoreId": 1,
-    "url": "http://apoi108.sakura.ne.jp/danoni/mmj/in_the_box.html"
+    "url": "https://mfv2.sakura.ne.jp/do/_mmj/?id=in_the_box"
   },
   {
     "level": 4,

@@ -433,7 +433,7 @@ const charts = [
   },
   {
     "level": "7",
-    "title": "alpina",
+    "title": "Alpinia",
     "difName": "E２７",
     "artist": "MiYAjY",
     "maker": "しょーでん",

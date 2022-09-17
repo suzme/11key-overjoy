@@ -520,5 +520,19 @@ const charts = [
     'scoreId': 16,
     'url': 'https://avectristesse.sakura.ne.jp/danoni/danoni/nkeys22M_GN.html',
     "date": "2022/8/14"
+  },
+  {
+    'level': '4',
+    'title': 'Air',
+    'difName': 'Ultimate',
+    'artist': 'SHIKI',
+    'maker': 'apoi',
+    'bpm': 180,
+    'toolDif': 95.50,
+    'noteNum': 1751,
+    'duration': '2:26',
+    'scoreId': 0,
+    'url': 'https://apoi108.sakura.ne.jp/danoni/apoi/no147_air.html',
+    "date": "2022/9/18"
   }
 ]
